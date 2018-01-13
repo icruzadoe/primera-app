@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tesisapp</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="txt_ingr_usuario">Usuario</string>
+    <string name="txt_ingr_contrasena">Contraseña</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
